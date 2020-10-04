@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite  name="AnswerDigitalAutomation suite">
+  <test name="AutomationPractice tests" verbose="2" >
+    <classes>
+      <class name="qa.testpages.tests.HomePageAutoPracticeTest"/>
+        <class name="qa.testpages.tests.HomePageHerokuappTest"/>
+          </classes>
+  </test> 
+   
+</suite>
+            

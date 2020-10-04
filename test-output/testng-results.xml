@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AnswerDigitalAutomation suite" duration-ms="149348" started-at="2020-10-04T21:08:11Z" finished-at="2020-10-04T21:10:40Z">
+    <groups>
+    </groups>
+    <test name="AutomationPractice tests" duration-ms="149348" started-at="2020-10-04T21:08:11Z" finished-at="2020-10-04T21:10:40Z">
+      <class name="qa.testpages.tests.HomePageAutoPracticeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="setup" is-config="true" duration-ms="10504" started-at="2020-10-04T22:08:11Z" finished-at="2020-10-04T22:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySummerDressPage()[pri:1, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="verifySummerDressPage" duration-ms="2281" started-at="2020-10-04T22:08:22Z" finished-at="2020-10-04T22:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySummerDressPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="tearDown" is-config="true" duration-ms="620" started-at="2020-10-04T22:08:24Z" finished-at="2020-10-04T22:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="setup" is-config="true" duration-ms="7948" started-at="2020-10-04T22:08:24Z" finished-at="2020-10-04T22:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyItemDeletedFromCart()[pri:2, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="verifyItemDeletedFromCart" duration-ms="13564" started-at="2020-10-04T22:08:32Z" finished-at="2020-10-04T22:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemDeletedFromCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="tearDown" is-config="true" duration-ms="698" started-at="2020-10-04T22:08:46Z" finished-at="2020-10-04T22:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="setup" is-config="true" duration-ms="7854" started-at="2020-10-04T22:08:47Z" finished-at="2020-10-04T22:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUserRegister()[pri:3, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="verifyUserRegister" duration-ms="6894" started-at="2020-10-04T22:08:55Z" finished-at="2020-10-04T22:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserRegister -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="tearDown" is-config="true" duration-ms="616" started-at="2020-10-04T22:09:01Z" finished-at="2020-10-04T22:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="setup" is-config="true" duration-ms="8758" started-at="2020-10-04T22:09:02Z" finished-at="2020-10-04T22:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySliderChangesPriceRange()[pri:4, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="verifySliderChangesPriceRange" duration-ms="3170" started-at="2020-10-04T22:09:11Z" finished-at="2020-10-04T22:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySliderChangesPriceRange -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.testpages.tests.HomePageAutoPracticeTest@3c5a99da]" name="tearDown" is-config="true" duration-ms="1122" started-at="2020-10-04T22:09:14Z" finished-at="2020-10-04T22:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testpages.tests.HomePageAutoPracticeTest -->
+      <class name="qa.testpages.tests.HomePageHerokuappTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="6504" started-at="2020-10-04T22:09:15Z" finished-at="2020-10-04T22:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyInvalidLogin(java.lang.String, java.lang.String)[pri:1, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyInvalidLogin" duration-ms="11189" started-at="2020-10-04T22:09:22Z" data-provider="getInvalidLoginDetails" finished-at="2020-10-04T22:09:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asfdghh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="6432" started-at="2020-10-04T22:09:33Z" finished-at="2020-10-04T22:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyInvalidLogin(java.lang.String, java.lang.String)[pri:1, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyInvalidLogin" duration-ms="11549" started-at="2020-10-04T22:09:39Z" data-provider="getInvalidLoginDetails" finished-at="2020-10-04T22:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsfgghhjj@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="5234" started-at="2020-10-04T22:09:51Z" finished-at="2020-10-04T22:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:2, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyValidLogin" duration-ms="1567" started-at="2020-10-04T22:09:56Z" finished-at="2020-10-04T22:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="5194" started-at="2020-10-04T22:09:58Z" finished-at="2020-10-04T22:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPageScroll()[pri:3, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyPageScroll" duration-ms="9452" started-at="2020-10-04T22:10:03Z" finished-at="2020-10-04T22:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageScroll -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="7349" started-at="2020-10-04T22:10:12Z" finished-at="2020-10-04T22:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyKeyPress(java.lang.String)[pri:4, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyKeyPress" duration-ms="511" started-at="2020-10-04T22:10:20Z" data-provider="keyPressDetails" finished-at="2020-10-04T22:10:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keys.CLEAR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeyPress -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="6598" started-at="2020-10-04T22:10:20Z" finished-at="2020-10-04T22:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyKeyPress(java.lang.String)[pri:4, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyKeyPress" duration-ms="446" started-at="2020-10-04T22:10:27Z" data-provider="keyPressDetails" finished-at="2020-10-04T22:10:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keys.NUMPAD7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeyPress -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="5135" started-at="2020-10-04T22:10:27Z" finished-at="2020-10-04T22:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyKeyPress(java.lang.String)[pri:4, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyKeyPress" duration-ms="391" started-at="2020-10-04T22:10:32Z" data-provider="keyPressDetails" finished-at="2020-10-04T22:10:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keys.SPACE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeyPress -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="setup" is-config="true" duration-ms="6525" started-at="2020-10-04T22:10:33Z" finished-at="2020-10-04T22:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyKeyPress(java.lang.String)[pri:4, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="verifyKeyPress" duration-ms="476" started-at="2020-10-04T22:10:39Z" data-provider="keyPressDetails" finished-at="2020-10-04T22:10:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keys.NUMPAD8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeyPress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qa.testpages.tests.HomePageHerokuappTest@47f37ef1]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-10-04T22:10:40Z" finished-at="2020-10-04T22:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testpages.tests.HomePageHerokuappTest -->
+    </test> <!-- AutomationPractice tests -->
+  </suite> <!-- AnswerDigitalAutomation suite -->
+</testng-results>
